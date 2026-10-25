@@ -13,11 +13,6 @@ I am a Ph.D. Researcher and Graduate Teaching Assistant in the Department of Sys
 * **Languages:** Python, Julia (JuMP/SCIP), Bash, MATLAB, LaTeX, C (eBPF/XDP)
 
 ### 📫 Let's Connect
-* **LinkedIn:** [https://www.linkedin.com/in/abdulaziz-abdulghaffar/]
-* **Google Scholar:** [https://scholar.google.com/citations?user=TDve3poAAAAJ&hl=en]
-* **ResearchGate:** [https://www.researchgate.net/profile/Abdulaziz-Abdulghaffar]
-
-
 <p align="left">
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/abdulaziz-abdulghaffar/" target="blank">
