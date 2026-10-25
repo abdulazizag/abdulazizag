@@ -9,10 +9,15 @@ I am a Ph.D. Researcher and Graduate Teaching Assistant in the Department of Sys
 
 ### 🛠️ Technical Arsenal
 * **5G/Telecom Emulation:** Free5GC, UERANSIM, TRex Traffic Generator
-* * **Systems & Networking:** Linux Kernel (Ubuntu), Containerlab, Docker, VirtualBox, eBPF, XDP, Socket Programming
+* **Systems & Networking:** Linux Kernel (Ubuntu), Containerlab, Docker, VirtualBox, eBPF, XDP, Socket Programming
 * **Languages:** C (eBPF/XDP), Python, Julia (JuMP/SCIP), Bash, MATLAB, LaTeX
 
 ### 📫 Let's Connect
 * **LinkedIn:** [https://www.linkedin.com/in/abdulaziz-abdulghaffar/]
 * **Google Scholar:** [https://scholar.google.com/citations?user=TDve3poAAAAJ&hl=en]
 * **ResearchGate:** [https://www.researchgate.net/profile/Abdulaziz-Abdulghaffar]
+
+
+<p align="left">
+<a href="https://www.linkedin.com/in/abdulaziz-abdulghaffar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdulaziz" height="30" width="40" /></a>
+</p>
