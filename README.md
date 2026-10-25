@@ -19,13 +19,9 @@ I am a Ph.D. Researcher and Graduate Teaching Assistant in the Department of Sys
 
 
 <p align="left">
-<a href="https://www.linkedin.com/in/abdulaziz-abdulghaffar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdulaziz" height="30" width="40" /></a>
-</p>
-
-<p align="left">
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/abdulaziz-abdulghaffar/" target="blank">
-    <img align="center" src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
   
   <!-- Google Scholar -->
